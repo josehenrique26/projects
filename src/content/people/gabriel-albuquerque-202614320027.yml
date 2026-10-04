@@ -1,0 +1,14 @@
+name:
+  compact: Gabriel Albuquerque
+  full: Gabriel Leite Cavalcanti de Albuquerque
+avatar:
+  github: https://github.com/leitecavalcanti-lab.png
+occupations:
+  - id: 202614320027
+    type: student
+    course: csbes-jp
+    isFinished: false
+addresses:
+  github: https://github.com/leitecavalcanti-lab
+  linkedin: https://www.linkedin.com/in/gabriel-cavalcanti-241a44432/
+  email: gabrielcavalcanti2512@gmail.com

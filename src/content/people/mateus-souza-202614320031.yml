@@ -1,0 +1,14 @@
+name:
+  compact: Mateus Souza
+  full: Mateus Menezes de Souza
+avatar:
+  github: https://github.com/mateussmenezes.png
+occupations:
+  - id: 202614320031
+    type: student
+    course: csbes-jp
+    isFinished: false
+addresses:
+  github: https://github.com/mateussmenezes
+  linkedin: https://www.linkedin.com/in/mateus-menezes-705782406/
+  email: mateus.menezes@academico.ifpb.edu.br

@@ -1,0 +1,14 @@
+name:
+  compact: José Leite
+  full: José Henrique de Sousa Leite
+avatar:
+  github: https://github.com/josehenrique26.png
+occupations:
+  - id: 202614320021
+    type: student
+    course: csbes-jp
+    isFinished: false
+addresses:
+  github: https://github.com/josehenrique26
+  linkedin: https://www.linkedin.com/in/jos%C3%A9-henrique-de-sousa-leite-b861463b4
+  email: jose-leite.jl@academico.ifpb.edu.br
