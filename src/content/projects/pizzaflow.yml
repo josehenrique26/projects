@@ -1,0 +1,27 @@
+name: PizzaFlow
+description: Sistema Web para pizzarias gerenciarem cardápio, pedidos e entregas, com painéis para empresa, cliente e entregador.
+addresses:
+  preview: https://github.com/josehenrique26/pizzaflow/blob/main/preview.png?raw=true
+  homepage: https://josehenrique26.github.io/pizzaflow/
+  repository: https://github.com/josehenrique26/pizzaflow
+  workflow: https://github.com/users/josehenrique26/projects/2
+  design: https://www.figma.com/make/O4jmNIXp7j0otHUTHx6u82/PizzaFlow-Web-App-Design
+category:
+  type: subject
+  subject: pw2-csbes-jp
+  period: 2026.2
+tags:
+  - html
+  - css
+  - javascript
+  - nextjs
+  - react
+  - supabase
+  - tailwindcss
+  - pizzaria
+  - delivery
+owners:
+  - 202614320012
+  - 202614320027
+  - 202614320021
+  - 202614320031
